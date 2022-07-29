@@ -29,11 +29,13 @@
  
 <div id="social">
 <h3>👥 Redes sociais</h3>
+<p>Voce pode me encontrar em:</p>
+
 <a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-braz/"> 
-  <image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <image hspace="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/__guibrz/"> 
-  <image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <image hspace="5px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
  
  </div> 
