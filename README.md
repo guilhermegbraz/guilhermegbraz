@@ -1,9 +1,9 @@
 ### Ola Mundo, Sou o Guilherme ! 👋
 
 ### 👤 Sobre mim
-- 🔭 Hoje trabalho como estagiário de desenvolvimento de sistemas
-- 🎓 Cursando o Bacharelado em Ciências da Computação - UFABC
-- 🌱 Estudando Java
+- 🔭 Hoje trabalho como Desenvolvedor de Sistemas
+- 🎓 Cursando o Bacharelado em Ciências da Computação - UFABC (2025)
+- 🌱 Fullstack Java & Angular
 - 📫 contate-me no email: guilherme.g.braz@outlook.com
 
 <div id="git_status">
@@ -36,10 +36,10 @@
 <h3>👥 Redes sociais</h3>
 <p>Voce pode me encontrar em:</p>
 
-<a href="https://www.linkedin.com/in/guilherme-gon%C3%A7alves-braz/"> 
+<a href="https://www.linkedin.com/in/guilherme-gbraz/"> 
   <image hspace="5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/__guibrz/"> 
+ <a href="https://www.instagram.com/__guizaoo/"> 
   <image hspace="5px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
  
